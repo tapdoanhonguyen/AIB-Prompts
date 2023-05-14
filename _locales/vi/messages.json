@@ -1,0 +1,512 @@
+﻿{
+    "GENERIC_LEGAL_CONCERN":  {
+                                  "message":  "Mối quan tâm pháp lý"
+                              },
+    "Lastupdatedon":  {
+                          "message":  "Cập nhật lần cuối vào"
+                      },
+    "AppName":  {
+                    "message":  "AIB Prompts - Lời nhắc tốt nhất cho ChatGPT"
+                },
+    "VotesDown":  {
+                      "message":  "Bình chọn cho lời nhắc này với ngón tay cái xuống"
+                  },
+    "Addnewprompttemplate":  {
+                                 "message":  "Thêm mẫu lời nhắc mới"
+                             },
+    "Close":  {
+                  "message":  "Đóng"
+              },
+    "RXN_AIBestPrompts_LIST_NOT_FOUND":  {
+                                             "message":  "Danh sách không được tìm thấy."
+                                         },
+    "FeedbackText":  {
+                         "message":  "Vui lòng mô tả sự cố bạn đang gặp phải với lời nhắc này."
+                     },
+    "notRemoveFavorites":  {
+                               "message":  "Không thể xóa khỏi danh sách lời nhắc \"Yêu thích\"."
+                           },
+    "appDesc":  {
+                    "message":  "Tăng năng suất của bạn với AIB Prompts - Lời nhắc cao cấp cho ChatGPT."
+                },
+    "Deletedlist":  {
+                        "message":  "Danh sách đã xóa"
+                    },
+    "VotesUp":  {
+                    "message":  "Bình chọn cho lời nhắc này với ngón tay cái lên"
+                },
+    "Pleaseidentify":  {
+                           "message":  "Vui lòng xác định với Tên tác giả và URL để xuất bản mẫu lời nhắc ở chế độ công khai"
+                       },
+    "CONNECT_ACCOUNT_ANNOUNCEMENT":  {
+                                         "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eChúng tôi rất vui mừng thông báo rằng bây giờ bạn có thể kết nối tài khoản OpenAI với tài khoản AIBestPrompts của mình.\u003cbr\u003e\u003cbr\u003eĐiều này sẽ cho phép bạn lưu lời nhắc yêu thích vào danh sách lời nhắc \"Yêu thích\" và thử nhiều tính năng cao cấp hơn của chúng tôi trước khi đăng ký gói AIBestPrompts cao cấp.\u003cbr\u003e\u003cbr\u003eNếu bạn chưa có tài khoản AIBestPrompts, bạn có thể tạo một tài khoản miễn phí.\u003c/p\u003e"
+                                     },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TITLE_LANG":  {
+                                                        "message":  "Tiêu đề Lời nhắc không phải bằng tiếng Anh."
+                                                    },
+    "Addpromptto":  {
+                        "message":  "Thêm lời nhắc này vào"
+                    },
+    "Pleasewritein":  {
+                          "message":  "Vui lòng viết với"
+                      },
+    "FeedbackScreenText2":  {
+                                "message":  "Vì chúng tôi không liên kết với OpenAI hoặc ChatGPT,\u003cbr\u003echúng tôi không chịu trách nhiệm về đầu ra của ChatGPT."
+                            },
+    "Tone":  {
+                 "message":  "Giọng điệu"
+             },
+    
+    "WritingStyle": {
+    "message": "Phong cách"
+          },
+    "YourFavorites":  {
+                          "message":  "Danh sách \u0026quot;Yêu thích\u0026quot; của bạn"
+                      },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TEASER_UPPERCASE":  {
+                                                              "message":  "Đoạn teaser Lời nhắc có quá nhiều chữ cái viết hoa."
+                                                          },
+    "Title":  {
+                  "message":  "Tiêu đề"
+              },
+    "SPAM":  {
+                 "message":  "Thư rác"
+             },
+    "Next":  {
+                 "message":  "Tiếp"
+             },
+    "UPGRADE_ACCOUNT_TO_USE_HIDDEN":  {
+                                          "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn có thể ẩn lời nhắc ngay lập tức. Để sử dụng tính năng này, vui lòng nâng cấp tài khoản AIBestPrompts của bạn lên gói \u003cb\u003eAIBestPrompts Plus\u003c/b\u003e trở lên.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                      },
+    "AIBestPromptsguide":  {
+                               "message":  "Tìm hiểu thêm \u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io/aibest_prompt_guide\" target=\"_blank\"\u003etại đây\u003c/a\u003e."
+                           },
+    "Teaser":  {
+                   "message":  "Mô tả ngắn"
+               },
+    "Makesureguidelines":  {
+                               "message":  "Đảm bảo bạn làm theo hướng dẫn Mẫu Lời nhắc."
+                           },
+    "Votes":  {
+                  "message":  "Bình chọn"
+              },
+    "RXN_AIBestPrompts_ACCESS_FORBIDDEN":  {
+                                               "message":  "Hành động được yêu cầu không được phép."
+                                           },
+    "RemovedfromHidden":  {
+                              "message":  "Đã xóa khỏi danh sách lời nhắc \"Ẩn\"."
+                          },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TEASER_LANG":  {
+                                                         "message":  "Lời nhắc không phải bằng tiếng Anh."
+                                                     },
+    "Outputin":  {
+                     "message":  "Ngôn ngữ"
+                 },
+    "NOT_MULTILINGUAL":  {
+                             "message":  "Kết quả sai ngôn ngữ"
+                         },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TITLE_UPPERCASE":  {
+                                                             "message":  "Tiêu đề Lời nhắc có quá nhiều chữ cái viết hoa."
+                                                         },
+    "HiddenPrompt":  {
+                         "message":  "Danh sách lời nhắc \u0026quot;Ẩn\u0026quot"
+                     },
+    "nolistfound1":  {
+                         "message":  "\u003coption value selected\u003e-- Chưa tìm thấy danh sách. Vui lòng tạo một danh sách tùy chỉnh mới trước. --\u003c/option\u003e"
+                     },
+    "notunhide":  {
+                      "message":  "Không thể bỏ ẩn mẫu lời nhắc."
+                  },
+    "UPGRADE_ACCOUNT_TO_USE_CUSTOM_LIST":  {
+                                               "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể tạo danh sách lời nhắc tùy chỉnh, bạn cần nâng cấp lên gói \u003cb\u003eAIBestPrompts Plus\u003c/b\u003e trở lên.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                           },
+    "UPGRADE_ACCOUNT_PUBLIC_PROMPTS_QUOTA_EXCEEDED":  {
+                                                          "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eTất cả lời nhắc sắp tới được phép của bạn đều có số phiếu ủng hộ dưới ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD}. Bạn chỉ có thể tạo lời nhắc công khai mới sắp tới nếu tất cả lời nhắc công khai của bạn có số lượt ủng hộ lớn hơn ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD}. Nếu bạn vừa hủy xuất bản hoặc xóa một lời nhắc sắp tới khác, vui lòng thử lại sau vài giây.\u003cbr\u003e\u003cbr\u003eĐể tạo thêm lời nhắc sắp tới cùng một lúc, bạn có thể nâng cấp lên gói \u003cb\u003eAIBestPrompts Pro\u003c/b\u003e .\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                      },
+    "thisprompt":  {
+                       "message":  "lời nhắc này"
+                   },
+    "CONNECT_ACCOUNT_PROMPT_QUOTA_EXCEEDED":  {
+                                                  "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn chỉ có thể tạo lời nhắc công khai mới sắp tới nếu tất cả lời nhắc công khai của bạn có số lượt ủng hộ lớn hơn ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD}. Bạn chỉ có thể tạo lời nhắc riêng tư mới nếu bạn không đạt đến giới hạn lời nhắc riêng tư tối đa được phép trong tài khoản của mình.\u003cbr\u003e\u003cbr\u003eKết nối tài khoản OpenAI của bạn với tài khoản AIBestPrompts của bạn để có thể tạo thêm lời nhắc.\u003cbr\u003e\u003cbr\u003eSau đó, bạn cũng có thể nâng cấp tài khoản AIBestPrompts của mình lên gói có nhiều lời nhắc công khai riêng tư và sắp tới hơn hoặc mua nhiều gói cùng loại.\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                              },
+    "CONNECT_ACCOUNT_TO_USE_PRIVATE_PROMPTS":  {
+                                                   "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể sử dụng lời nhắc riêng tư, bạn phải kết nối tài khoản OpenAI với tài khoản AIBestPrompts của mình. Điều này sẽ cho phép bạn tạo một lời nhắc riêng tư chỉ hiển thị cho bạn.\u003c/p\u003e"
+                                               },
+    "Prompthint":  {
+                       "message":  "Gợi ý Lời nhắc cho mẫu lời nhắc này, ví dụ: \u0027[KEYWORD]\u0027 hoặc \u0027[danh sách từ khóa của bạn, tối đa ca. 8000]"
+                   },
+    "Viewsource":  {
+                       "message":  "Xem nguồn mẫu lời nhắc"
+                   },
+    "SavePrompt":  {
+                       "message":  "Lưu lời nhắc"
+                   },
+    "Pleasefixerror":  {
+                           "message":  "Vui lòng sửa các lỗi sau:"
+                       },
+    "ExportChat":  {
+                       "message":  "Xuất trò chuyện"
+                   },
+    "correctly":  {
+                      "message":  "chính xác"
+                  },
+    "Default":  {
+                    "message":  "Mặc định"
+                },
+    "RXN_AIBestPrompts_OVER_LIMIT_PROMPTS":  {
+                                                 "message":  "Bạn chỉ có thể tạo lời nhắc công khai mới nếu tất cả lời nhắc công khai của bạn có hơn 5 phiếu bầu.\u003cbr\u003e\u003cbr\u003eBạn chỉ có thể tạo lời nhắc riêng tư mới nếu bạn không đạt đến giới hạn lời nhắc riêng tư tối đa được phép. \u003cbr\u003e\u003cbr\u003e Vui lòng thử lại sau vài giây, trong trường hợp bạn vừa hủy xuất bản hoặc xóa lời nhắc công khai khác hoặc xóa lời nhắc riêng tư khác."
+                                             },
+    "Prompttextincludingplaceholders":  {
+                                            "message":  "Văn bản nhắc bao gồm chỗ dành sẵn [TARGETLANGUAGE] hoặc [PROMPT] được thay thế tự động bằng AIBestPrompts"
+                                        },
+    "Removedfrom":  {
+                        "message":  "Đã xóa khỏi"
+                    },
+    "GENERIC_CONCERN":  {
+                            "message":  "Lời nhở không hoạt động như mong đợi"
+                        },
+    "AIBestPromptsVerified":  {
+                                  "message":  "VIP"
+                              },
+    "Prompttitledecs":  {
+                            "message":  "Tiêu đề ngắn cho mẫu lời nhắc này, ví dụ: \u0027Chiến lược từ khóa\u0027\" trình giữ chỗ bắt buộc = \"Chiến lược từ khóa"
+                        },
+    "RemovedFavorite":  {
+                            "message":  "Đã xóa khỏi danh sách lời nhắc \"Yêu thích\"."
+                        },
+    "notaddedtolist":  {
+                           "message":  "Không thể thêm vào danh sách."
+                       },
+    "notremovelist":  {
+                          "message":  "Không thể xóa khỏi danh sách."
+                      },
+    "ToaddFavorites":  {
+                           "message":  "Để thêm lời nhắc vào danh sách lời nhắc \"Yêu thích\", hãy nhấp vào biểu tượng ngôi sao bên cạnh tiêu đề lời nhắc."
+                       },
+    "Confirm":  {
+                    "message":  "Xác nhận"
+                },
+    "Hidden":  {
+                   "message":  "Ẩn"
+               },
+    "UPGRADE_ACCOUNT_LIST_ITEM_QUOTA_EXCEEDED":  {
+                                                     "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn đã đạt đến lời nhắc tối đa được phép cho mỗi danh sách lời nhắc. Để thêm lời nhắc vào danh sách này, vui lòng nâng cấp tài khoản AIBestPrompts của bạn.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                 },
+    "UPGRADE_ACCOUNT_POWER_CONTINUE":  {
+                                           "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eNâng cấp lên gói cao cấp để kích hoạt tính năng Tiếp tục Nâng cao.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                       },
+    "UPGRADE_ACCOUNT_CUSTOM_LIST_QUOTA_EXCEEDED":  {
+                                                       "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể tạo danh sách lời nhắc tùy chỉnh mới, vui lòng nâng cấp tài khoản AIBestPrompts của bạn lên gói có nhiều danh sách lời nhắc hơn.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                   },
+    "CONNECT_ACCOUNT_UPGRADE_TO_USE_CUSTOM_LIST":  {
+                                                       "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể tạo danh sách lời nhắc tùy chỉnh, bạn phải kết nối tài khoản OpenAI với tài khoản AIBestPrompts và đăng ký gói \u003cb\u003eAIBestPrompts Plus\u003c/b\u003e trở lên. Điều này sẽ cho phép bạn lưu lời nhắc của mình vào danh sách lời nhắc tùy chỉnh.\u003c/p\u003e"
+                                                   },
+    "Defaultlanguage":  {
+                            "message":  "Ngôn ngữ mặc định"
+                        },
+    "ForkasPrivatePrompt":  {
+                                "message":  "Nhân bản"
+                            },
+    "Addedto":  {
+                    "message":  "Đã thêm vào"
+                },
+    "FeedbackTypeNotitle":  {
+                                "message":  "Bạn muốn báo cáo điều gì?"
+                            },
+    "AllTopic":  {
+                "message":  "Chủ đề"
+            },
+    "CONNECT_ACCOUNT_VIEW_PROMPT_TEMPLATE_SOURCE":  {
+                                                        "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể xem nguồn mẫu lời nhắc, bạn phải kết nối tài khoản OpenAI với tài khoản AIBestPrompts và đăng ký gói \u003cb\u003eAIBestPrompts Premium\u003c/b\u003e trở lên.\u003c/p\u003e"
+                                                    },
+    "AppSlogan":  {
+                      "message":  "Tăng năng suất của bạn với AIB Prompts - Lời nhắc cao cấp cho ChatGPT."
+                  },
+    "CONNECT_ACCOUNT_UPGRADE_AIBestPrompts_VERIFIED_LIST":  {
+                                                                "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể sử dụng danh sách \"Lời nhắc đã xác minh AIBestPrompts\", bạn phải kết nối tài khoản OpenAI với tài khoản AIBestPrompts và đăng ký gói \u003cb\u003eAIBestPrompts Pro\u003c/b\u003e .\u003c/p\u003e"
+                                                            },
+    "Unhide":  {
+                   "message":  "Bỏ ẩn"
+               },
+    "Favorites":  {
+                      "message":  "Yêu thích"
+                  },
+    "Copylinkprompt":  {
+                           "message":  "Sao chép liên kết đến lời nhắc này"
+                       },
+    "UPGRADE_ACCOUNT_VIEW_PROMPT_TEMPLATE_SOURCE":  {
+                                                        "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể xem nguồn mẫu lời nhắc, bạn phải đăng ký gói \u003cb\u003eAIBestPrompts Premium\u003c/b\u003e trở lên.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                    },
+    "AuthorURLvisibleforallusers":  {
+                                        "message":  "URL tác giả hiển thị cho tất cả người dùng"
+                                    },
+    "ThanksVote":  {
+                       "message":  "Cám ơn bạn đã đánh giá !"
+                   },
+    "Addtolist":  {
+                      "message":  "Thêm vào danh sách"
+                  },
+    "Confirmdeletelist":  {
+                              "message":  "Bạn có chắc chắn muốn xóa danh sách không"
+                          },
+    "Prompttemplatesave":  {
+                               "message":  "Mẫu Lời nhắc đã được lưu thành công vào \"Lời nhắc riêng\"."
+                           },
+    "Deleteprompt":  {
+                         "message":  "Xóa lời nhắc này"
+                     },
+    "UPGRADE_ACCOUNT_HIDDEN_LIST_ITEMS_QUOTA_EXCEEDED":  {
+                                                             "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể ẩn nhiều lời nhắc hơn cùng một lúc, vui lòng nâng cấp tài khoản AIBestPrompts của bạn lên gói có nhiều lời nhắc hơn cho mỗi danh sách lời nhắc. Ngoài ra, bạn có thể xóa một số lời nhắc khỏi danh sách \"Ẩn\" để tạo không gian cho những lời nhắc mới.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                         },
+    "FeedbackScreenText21":  {
+                                 "message":  "Nhưng chúng tôi có thể cố gắng giúp bạn với kết quả.\u003cbr\u003e\u003cbr\u003eChúng ta có thể làm điều này bằng cách xem lời nhắc được báo cáo và đầu ra được tạo.\u003cbr\u003e\u003cbr\u003eBạn cũng có thể báo cáo câu hỏi của mình trên \u003ca style=\"text-decoration:underline\" target=\"_blank\" href=\"https://aibest.io/c/prompt-user-questions/\"\u003ediễn đàn người dùng của chúng tôi\u003c/a\u003e và những người khác sẽ cố gắng giúp bạn ở đó, thường nhanh hơn.\u003cbr\u003e"
+                             },
+    "UPGRADE_ACCOUNT_CUSTOM_TONE_WRITING_STYLE":  {
+                                                      "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eNâng cấp lên gói AIBestPrompts Plus để có thêm Tông và Phong cách viết.Nâng cấp lên gói \u003cb\u003eAIBestPrompts Pro\u003c/b\u003e để thậm chí thêm Tông và Phong cách Viết tùy chỉnh của riêng bạn.\u003cb\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                  },
+    "Send":  {
+                 "message":  "Gửi"
+             },
+    "CONNECT_ACCOUNT_TO_USE_FAVORITES":  {
+                                             "message":  "\u003ch3\u003eKết nối OpenAI và AI Best Prompts Tài khoản\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể sử dụng danh sách lời nhắc \"Yêu thích\", bạn phải kết nối tài khoản OpenAI với tài khoản AIBestPrompts của mình.\u003cbr\u003eĐiều này sẽ cho phép bạn lưu lời nhắc yêu thích vào danh sách lời nhắc \"Yêu thích\".\u003c/p\u003e"
+                                         },
+    "AddtoHidden":  {
+                        "message":  "Đã thêm vào danh sách lời nhắc \"Ẩn\"."
+                    },
+    "VerifiedPrompt":  {
+                           "message":  "Lời nhắc này đã được AIBestPrompts Xem xét và Xác minh."
+                       },
+    "ToaddHidden":  {
+                        "message":  "Để thêm lời nhắc vào danh sách lời nhắc \"Ẩn\" của bạn và ẩn nó, hãy nhấp vào biểu tượng chữ thập bên cạnh tiêu đề lời nhắc."
+                    },
+    "notFavorites":  {
+                         "message":  "Không thể thêm vào danh sách lời nhắc \"Yêu thích\"."
+                     },
+    "createnewlist2":  {
+                           "message":  "\u003coption value\u003e-- Tạo danh sách mới --\u003c/option\u003e"
+                       },
+    "Usages":  {
+                   "message":  "Sử dụng"
+               },
+    "RemovePrompt":  {
+                         "message":  "Xóa lời nhắc này khỏi danh sách"
+                     },
+    "RXN_AIBestPrompts_INVALID_PROMPT_HINT_UPPERCASE":  {
+                                                            "message":  "Gợi ý Lời nhắc có quá nhiều chữ cái viết hoa."
+                                                        },
+    "Shortteasertemplate":  {
+                                "message":  "Đoạn giới thiệu ngắn cho mẫu Lời nhắc này, ví dụ: \u0027Tạo chiến lược từ khóa và kế hoạch nội dung SEO từ 1 từ khóa [KEYWORD]"
+                            },
+    "Forkedfrom":  {
+                  "message":  "Nhân bản từ "
+              },
+    "Views":  {
+                  "message":  "Lượt xem"
+              },
+    "Public":  {
+                   "message":  "Tất cả"
+               },
+    "PromptsperPagetitle":  {
+                                "message":  "Số lượng mẫu Lời nhắc trên mỗi trang"
+                            },
+    "UPGRADE_ACCOUNT_PROMPT_QUOTA_EXCEEDED":  {
+                                                  "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn chỉ có thể tạo lời nhắc công khai mới sắp tới nếu tất cả lời nhắc công khai của bạn có số lượt ủng hộ lớn hơn ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD}. Bạn chỉ có thể tạo lời nhắc riêng tư mới nếu bạn không đạt đến giới hạn lời nhắc riêng tư tối đa được phép trong tài khoản của mình.\u003cbr\u003e\u003cbr\u003eVui lòng thử lại sau vài giây, nếu bạn vừa hủy xuất bản hoặc xóa một lời nhắc công khai sắp tới khác hoặc xóa một lời nhắc riêng tư khác.\u003cbr\u003e\u003cbr\u003eĐể có thể tạo thêm lời nhắc, bạn có thể nâng cấp tài khoản AIBestPrompts của mình lên gói có nhiều lời nhắc công khai riêng tư và sắp tới hơn hoặc mua nhiều gói cùng loại.\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                              },
+    "notdeletedlist":  {
+                           "message":  "Không thể xóa danh sách."
+                       },
+    "RXN_AIBestPrompts_INVALID_PROMPT_HINT_LANG":  {
+                                                       "message":  "Gợi ý Lời nhắc không phải bằng tiếng Anh."
+                                                   },
+    "Search":  {
+                   "message":  "Tìm kiếm"
+               },
+    "ContactEmail":  {
+                         "message":  "Thư liên lạc"
+                     },
+    "PromptHintlable":  {
+                            "message":  "Gợi ý Lời nhắc"
+                        },
+    "Cancel":  {
+                   "message":  "Hủy"
+               },
+    "addtoFavorites":  {
+                           "message":  "Đã thêm vào danh sách lời nhắc \"Yêu thích\"."
+                       },
+    "Sortby":  {
+                   "message":  "Sắp xếp theo"
+               },
+    "Upgradeformore":  {
+                           "message":  "\u0027\u003coption value disabled\u003e_________\u003c/option\u003e\u003coption value=\"UPGRADE\"\u003eNâng cấp để thêm\u003c/option\u003e\u0027"
+                       },
+    "AppShort":  {
+                     "message":  "AIB Prompts"
+                 },
+    "language":  {
+                     "message":  "ngôn ngữ"
+                 },
+    "ExportHeaderPrefix":  {
+                               "message":  "Được xuất bằng AIBestPrompts https://aibest.io bởi "
+                           },
+    "Prev":  {
+                 "message":  "Trước"
+             },
+    "Feedback":  {
+                     "message":  "Phản hồi"
+                 },
+    "FeedbackText2":  {
+                          "message":  "Vui lòng bao gồm toàn bộ lịch sử lời nhắc của bạn bao gồm lời nhắc ban đầu được sử dụng."
+                      },
+    "Youmustuse":  {
+                       "message":  "Bạn phải sử dụng"
+                   },
+    "Editprompt":  {
+                       "message":  "Chỉnh sửa lời nhắc này"
+                   },
+    "writingstyle":  {
+                         "message":  "phong cách viết"
+                     },
+    "appTitle":  {
+                     "message":  "AIB Prompts - Lời nhắc tốt nhất cho ChatGPT"
+                 },
+    "Hide":  {
+                 "message":  "Ẩn"
+             },
+    "Updatedlist":  {
+                        "message":  "Đã cập nhật danh sách lời nhắc"
+                    },
+    "nolistfound":  {
+                        "message":  "Chưa tìm thấy danh sách nào. Vui lòng tạo một danh sách tùy chỉnh mới trước."
+                    },
+    "CopylinkNotify":  {
+                           "message":  "Liên kết đến mẫu lời nhắc đã được sao chép vào khay nhớ tạm của bạn."
+                       },
+    "Reportprompt":  {
+                         "message":  "Báo cáo lời nhắc này"
+                     },
+    "RXN_AIBestPrompts_QUOTA_EXCEEDED":  {
+                                             "message":  "Vượt quá hạn ngạch - vui lòng nâng cấp tài khoản của bạn."
+                                         },
+    "Createakeyword":  {
+                           "message":  "Tạo chiến lược từ khóa và kế hoạch nội dung SEO từ 1 từ khóa [KEYWORD]"
+                       },
+    "ForkedFrom":  {
+                       "message":  "Rẽ nhánh từ"
+                   },
+    "ReadTermsConditions":  {
+                                "message":  "Tôi đã đọc và chấp nhận các điều khoản \u0026điều kiện này"
+                            },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TITLE_WORD_COUNT":  {
+                                                              "message":  "Tiêu đề Lời nhắc quá dài."
+                                                          },
+    "enternamelist":  {
+                          "message":  "Vui lòng nhập tên mới cho danh sách:"
+                      },
+    "ThanksFeedback":  {
+                           "message":  "Cảm ơn phản hồi của bạn! Chúng tôi sẽ xem xét lời nhắc này."
+                       },
+    "Topic":  {
+                  "message":  "Chủ đề"
+              },
+    "Pleaseselectlist":  {
+                             "message":  "Vui lòng chọn một danh sách hoặc tạo một danh sách mới."
+                         },
+    "NOT_GENERIC":  {
+                        "message":  "Kết quả sai chủ đề/từ khóa"
+                    },
+    "UPGRADE_ACCOUNT_LIST_QUOTA_EXCEEDED":  {
+                                                "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn đã đạt đến danh sách lời nhắc tối đa được phép. Để tạo thêm danh sách lời nhắc, vui lòng nâng cấp tài khoản AIBestPrompts của bạn.\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                            },
+
+    "Continue":  {
+                     "message":  "Tiếp tục"
+                 },
+    "PromptTemplatelabel":  {
+                                "message":  "Mẫu Lời nhắc"
+                            },
+    "Sharepromptpublicly":  {
+                                "message":  "Chia sẻ công khai mẫu lời nhắc"
+                            },
+    "Showing":  {
+                    "message":  ""
+                },
+    "PromptsperPage":  {
+                           "message":  "Số lượng"
+                       },
+    "UPGRADE_ACCOUNT_PRIVATE_PROMPTS_QUOTA_EXCEEDED":  {
+                                                           "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn đã vượt quá số lượng lời nhắc riêng tư được phép trong tài khoản của mình. Nếu bạn vừa xóa một lời nhắc riêng tư khác, vui lòng thử lại sau vài giây.\u003cbr\u003e\u003cbr\u003eĐể tạo thêm lời nhắc riêng tư, vui lòng nâng cấp tài khoản AIBestPrompts của bạn lên gói cho phép nhiều lời nhắc riêng tư hơn.\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                       },
+    "Prompthintholder":  {
+                             "message":  "[KEYWORD] hoặc [danh sách từ khóa của bạn, tối đa ca. 8000]"
+                         },
+    "AuthorNamevisibleforallusers":  {
+                                         "message":  "Tên tác giả hiển thị cho tất cả người dùng"
+                                     },
+    "Own":  {
+                "message":  "Của tôi"
+            },
+    "Createdby":  {
+                      "message":  "Được tạo bởi"
+                  },
+    "notupdatelist":  {
+                          "message":  "Không thể cập nhật danh sách."
+                      },
+    "WarningNotpublic":  {
+                             "message":  "Liên kết đến mẫu lời nhắc đã được sao chép vào khay nhớ tạm của bạn.\u003cbr\u003eLời nhắc này không được chia sẻ dưới dạng công khai. Chỉ bạn mới có thể truy cập nó."
+                         },
+    "promptslist":  {
+                        "message":  "prgttdfgfdt"
+                    },
+    "createnewlist":  {
+                          "message":  "Tạo danh sách mới"
+                      },
+    "reportPromptIntroText":  {
+                                  "message":  "Cảm ơn bạn đã giúp chúng tôi cải thiện.\u003cbr\u003e\u003cbr\u003eChúng tôi cần bạn trả lời một số câu hỏi để chúng tôi có thể hiểu rõ hơn điều gì đang xảy ra với Lời nhắc này.\u003cbr\u003e\u003cbr\u003eBạn cũng sẽ có tùy chọn để thêm thông tin khác bằng từ ngữ của riêng bạn và thêm chi tiết khác vào báo cáo.\u003cbr\u003e\u003cbr\u003eChúng tôi xem xét các báo cáo một cách nghiêm túc.\u003cbr\u003e\u003cbr\u003eNếu phát hiện thấy vi phạm quy tắc, chúng tôi sẽ xóa Lời nhắc ngay lập tức hoặc yêu cầu họ sửa đổi hoặc khóa hoặc tạm ngưng tài khoản."
+                              },
+    "YourAccount":  {
+                        "message":  "Tài khoản của bạn"
+                    },
+    "CONNECT_ACCOUNT_UPGRADE_TO_USE_HIDDEN":  {
+                                                  "message":  "\u003ch3\u003eKết nối tài khoản OpenAI và AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eBạn có thể ẩn lời nhắc ngay lập tức. Để sử dụng tính năng này, bạn phải kết nối tài khoản OpenAI với tài khoản AIBestPrompts và đăng ký gói \u003cb\u003eAIBestPrompts Plus\u003c/b\u003e trở lên.\u003c/p\u003e"
+                                              },
+    "PleaseNotConfidential":  {
+                                  "message":  "Vui lòng lưu ý đến những gì bạn chia sẻ và không bao gồm bất kỳ thông tin bí mật nào, vì chúng tôi không chịu trách nhiệm cho bất kỳ hành động nào được thực hiện bởi người khác với thông tin bạn chọn chia sẻ."
+                              },
+    "Logout":  {
+                   "message":  "Đăng xuất"
+               },
+    "Savepromptastemplate":  {
+                                 "message":  "Lưu lời nhắc dưới dạng mẫu"
+                             },
+    "Removepromptfrom":  {
+                             "message":  "Xóa lời nhắc này khỏi"
+                         },
+    "Activity":  {
+                     "message":  "Hoạt động"
+                 },
+    "Somethingwhenrong":  {
+                              "message":  "Đã xảy ra sự cố, vui lòng thử lại sau."
+                          },
+    "UPGRADE_ACCOUNT_AIBestPrompts_VERIFIED_LIST":  {
+                                                        "message":  "\u003ch3\u003eNâng cấp tài khoản AIBestPrompts\u003c/h3\u003e\u003cp class=\"AIBestPrompts__my-4\"\u003eĐể sử dụng danh sách Lời nhắc đã xác minh AIBestPrompts, bạn phải đăng ký gói \u003cb\u003eAIBestPrompts Pro\u003c/b\u003e trở lên.\u003cb\u003e\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003ca class=\"AIBestPrompts__underline\" href=\"https://aibest.io\"\u003eXem các gói có sẵn tại đây.\u003c/a\u003e\u003c/p\u003e"
+                                                    },
+    "DeletePromptConfirm":  {
+                                "message":  "Bạn có chắc chắn muốn xóa mẫu lời nhắc không"
+                            },
+                            "AuthorName": {
+                              "message": "Tên tác giả"
+                          },
+                          "AuthorURL": {
+                              "message": "Website của tác giả"
+                          },
+                          
+    "Continuewritingplease": {
+        "message": "Hãy tiếp tục viết"
+    },
+    "ContinuewritingpleaseConfirm": {
+        "message": "Bạn có chắc chắn muốn tiếp tục không? Văn bản lời nhắc hiện tại sẽ bị mất."
+    },  
+    "YourAIBestPromptsVerified":  {
+                                      "message":  "Danh sách lời nhắc \u0026quot;Prompts VIP\u0026quot;"
+                                  }
+}

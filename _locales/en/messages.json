@@ -1,0 +1,523 @@
+{
+    "appTitle": {
+        "message": "AIB Prompts - AI Best Prompts for ChatGPT"
+    },
+    "AppShort": {
+        "message": "AIB Prompts"
+    },
+    "AppName": {
+        "message": "AIB Prompts - AI Best Prompts for ChatGPT"
+    },
+    "AppSlogan": {
+        "message": "Boost your productivity with AIB Prompts - Premium prompts for ChatGPT"
+    },
+    "ExportHeaderPrefix": {
+        "message": "\n```\nExported with AIBestPrompts https://aibest.io by "
+    },
+    "reportPromptIntroText": {
+        "message": "Thanks for helping us improve.<br><br>We need you to answer a few questions so we can better understand what's going on with this Prompt.<br><br>You'll also have the option to add more info in your own words and add more details to the report.<br><br>We take reports seriously.<br><br>If we find a rule violation, we'll either remove the Prompt immediately or ask them to revise, or lock or suspend the account."
+    },
+    "FeedbackTypeNotitle": {
+        "message": "What would you like to report?"
+    },
+    "GENERIC_LEGAL_CONCERN": {
+        "message": "Legal concerns"
+    },
+    "NOT_MULTILINGUAL": {
+        "message": "Result in wrong language"
+    },
+    "NOT_GENERIC": {
+        "message": "Result on wrong topic/keywords"
+    },
+    "GENERIC_CONCERN": {
+        "message": "Prompt not working as expected"
+    },
+    "SPAM": {
+        "message": "Spam"
+    },
+    "Cancel": {
+        "message": "Cancel"
+    },
+    "Send": {
+        "message": "Send"
+    },
+    "FeedbackScreenText2": {
+        "message": "Since we are not affiliated with OpenAI or ChatGPT,<br>we are not responsible for the output of ChatGPT."
+    },
+    "FeedbackScreenText21": {
+        "message": "But we can try to help you with results.<br><br>We can do this by looking at the prompt reported,and the output generated.<br><br>You can also report your question on <a style=\"text-decoration:underline\" target=\"_blank\" href=\"https://aibest.io/c/prompt-user-questions/\">our user forum</a> and others will try to help you there, often faster.<br>"
+    },
+    "ContactEmail": {
+        "message": "Contact Email"
+    },
+    "Feedback": {
+        "message": "Feedback"
+    },
+    "FeedbackText": {
+        "message": "Please describe the issue you are having with this prompt."
+    },
+    "FeedbackText2": {
+        "message": "Please include your full history of the prompt including the original prompt used."
+    },
+    "ReadTermsConditions": {
+        "message": "I read and accept these terms & conditions"
+    },
+    "Confirm": {
+        "message": "Confirm"
+    },
+    "RXN_AIBestPrompts_ACCESS_FORBIDDEN": {
+        "message": "The requested action is not allowed."
+    },
+    "RXN_AIBestPrompts_OVER_LIMIT_PROMPTS": {
+        "message": "You can only create new public prompts if all your public prompts have more than 5 upvotes.<br><br>You can only create new private prompts if you didn't reach the limit of max. allowed private prompts. <br><br> Please try again in a few seconds, in case you just unpublished or deleted another public prompt, or deleted another private prompt."
+    },
+    "RXN_AIBestPrompts_QUOTA_EXCEEDED": {
+        "message": "Quota exceeded - please upgrade your account."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TITLE_LANG": {
+        "message": "The prompt title is not in English."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TEASER_LANG": {
+        "message": "The prompt teaser is not in English."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_HINT_LANG": {
+        "message": "The prompt hint is not in English."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TITLE_UPPERCASE": {
+        "message": "The prompt title has too many uppercase letters."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TITLE_WORD_COUNT": {
+        "message": "The prompt title is too long."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_TEASER_UPPERCASE": {
+        "message": "The prompt teaser has too many uppercase letters."
+    },
+    "RXN_AIBestPrompts_INVALID_PROMPT_HINT_UPPERCASE": {
+        "message": "The prompt hint has too many uppercase letters."
+    },
+    "RXN_AIBestPrompts_LIST_NOT_FOUND": {
+        "message": "The list was not found."
+    },
+    "Somethingwhenrong": {
+        "message": "Something went wrong, please try again later."
+    },
+    "CONNECT_ACCOUNT_ANNOUNCEMENT": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">We are excited to announce that you can now connect your OpenAI account with your AIBestPrompts account.<br><br>This will allow you to save a favorite prompt to the \"Favorites\" prompts list and to try more of our premium features before subscribing to a premium AIBestPrompts plan.<br><br>If you don't have an AIBestPrompts account yet, you can create one for free.</p>"
+    },
+    "CONNECT_ACCOUNT_TO_USE_FAVORITES": {
+        "message": "<h3>Connect OpenAI and AI Best Prompts Accounts</h3><p class=\"AIBestPrompts__my-4\">To use the \"Favorites\" prompts list, you must connect your OpenAI account with your AIBestPrompts account.<br>This will allow you to save a favorite prompt to the \"Favorites\" prompts list.</p>"
+    },
+    "CONNECT_ACCOUNT_UPGRADE_TO_USE_HIDDEN": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">You can hide prompts immediately. To use this feature,you must connect your OpenAI account with your AIBestPrompts account and subscribe to the <b>AIBestPrompts Plus</b> plan or higher.</p>"
+    },
+    "UPGRADE_ACCOUNT_TO_USE_HIDDEN": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">You can hide prompts immediately. To use this feature, please upgrade your AIBestPrompts account to the <b>AIBestPrompts Plus</b> plan or higher.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_HIDDEN_LIST_ITEMS_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">To hide more prompts at the same time, please upgrade your AIBestPrompts account to a plan with more prompts per prompts list.Alternatively, you can remove some prompts from your \"Hidden\" list to make space for new ones.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "CONNECT_ACCOUNT_UPGRADE_TO_USE_CUSTOM_LIST": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">To create a custom prompt list, you must connect your OpenAI account with your AIBestPrompts account and subscribe to the <b>AIBestPrompts Plus</b> plan or higher.This will allow you to save your prompts to a custom prompt list.</p>"
+    },
+    "UPGRADE_ACCOUNT_TO_USE_CUSTOM_LIST": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">To create a custom prompt list, you need to upgrade to the <b>AIBestPrompts Plus</b> plan or higher.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_CUSTOM_LIST_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">To create a new custom prompt list, please upgrade your AIBestPrompts account to a plan with more prompts lists.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_LIST_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">You have reached your maximum allowed prompts lists. To create more prompts lists, please upgrade your AIBestPrompts account.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_LIST_ITEM_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">You have reached your maximum allowed prompts per prompts list. To add more prompts to this list, please upgrade your AIBestPrompts account.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "CONNECT_ACCOUNT_TO_USE_PRIVATE_PROMPTS": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">To use private prompts, you must connect your OpenAI account with your AIBestPrompts account.This will allow you to create a private prompt that is only visible to you.</p>"
+    },
+    "UPGRADE_ACCOUNT_PRIVATE_PROMPTS_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">You have exceeded the number of private prompts allowed in your account.    If you just deleted another private prompt, please try again in a few seconds.<br><br>To create more private prompts, please upgrade your AIBestPrompts account to a plan allowing more private prompts.<br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_PUBLIC_PROMPTS_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">All your allowed upcoming prompts have less than ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD} upvotes.You can only create a new upcoming public prompts if all your public prompts have more than ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD} upvotes.If you just unpublished or deleted another upcoming prompt, please try again in a few seconds.<br><br>To create more upcoming prompts at once, you can upgrade to the <b>AIBestPrompts Pro</b> plan.<br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "CONNECT_ACCOUNT_PROMPT_QUOTA_EXCEEDED": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">You can only create new upcoming public prompts if all your public prompts have more than ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD} upvotes.You can only create new private prompts if you didn't reach the limit of the max. allowed private prompts in your account.<br><br>Connect your OpenAI account with your AIBestPrompts account to be able to create more prompts.<br><br>Then you can also upgrade your AIBestPrompts account to a plan with more private and upcoming public prompts, or purchase multiple plans of the same type.<br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_PROMPT_QUOTA_EXCEEDED": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">You can only create new upcoming public prompts if all your public prompts have more than ${MIN_PUBLIC_PROMPT_VOTES_THRESHOLD} upvotes.You can only create new private prompts if you didn't reach the limit of the max. allowed private prompts in your account.<br><br>Please try again in a few seconds, if you just unpublished or deleted another upcoming public prompt, or deleted another private prompt.<br><br>To be able to create more prompts, you can upgrade your AIBestPrompts account to a plan with more private and upcoming public prompts, or purchase multiple plans of the same type.<br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_CUSTOM_TONE_WRITING_STYLE": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">Upgrade to the <b>AIBestPrompts Plus</b> plan to get additional Tones and Writing Styles.Upgrade to the <b>AIBestPrompts Pro</b> plan to even add your own custom Tones and Writing Styles.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "UPGRADE_ACCOUNT_POWER_CONTINUE": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">Upgrade to a premium plan to activate the Power Continue feature.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "CONNECT_ACCOUNT_UPGRADE_AIBestPrompts_VERIFIED_LIST": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">To use the \"Prompts VIP\" list, you must connect your OpenAI account with your AIBestPrompts account and subscribe to the <b>AIBestPrompts Pro</b> plan.</p>"
+    },
+    "UPGRADE_ACCOUNT_AIBestPrompts_VERIFIED_LIST": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">To use the <b>Prompts VIP</b> list, you must subscribe to the <b>AIBestPrompts Pro</b> plan or higher.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "CONNECT_ACCOUNT_VIEW_PROMPT_TEMPLATE_SOURCE": {
+        "message": "<h3>Connect OpenAI and AIBestPrompts Accounts</h3><p class=\"AIBestPrompts__my-4\">To view prompt template source, you must connect your OpenAI account with your AIBestPrompts account and subscribe to the <b>AIBestPrompts Premium</b> plan or higher.</p>"
+    },
+    "UPGRADE_ACCOUNT_VIEW_PROMPT_TEMPLATE_SOURCE": {
+        "message": "<h3>Upgrade AIBestPrompts Account</h3><p class=\"AIBestPrompts__my-4\">To view prompt template source, you must subscribe to the <b>AIBestPrompts Premium</b> plan or higher.<br><br><a class=\"AIBestPrompts__underline\" href=\"https://aibest.io\">View available plans here.</a></p>"
+    },
+    "writingstyle": {
+        "message": "writing style"
+    },
+    "language": {
+        "message": "language"
+    },
+    "Pleasewritein": {
+        "message": "Please write in"
+    },
+    "Savepromptastemplate": {
+        "message": "Save prompt as template"
+    },
+    "Pleaseidentify": {
+        "message": "Please identify with Author Name and URL to publish a prompt template as public"
+    },
+    "Makesureguidelines": {
+        "message": "Make sure you follow the Prompt Template guidelines. "
+    },
+    "Youmustuse": {
+        "message": "You must use"
+    },
+    "correctly": {
+        "message": "correctly"
+    },
+    "AIBestPromptsguide": {
+        "message": "Learn more <a class=\"AIBestPrompts__underline\" href=\"https://aibest.io/aibest_prompt_guide\" target=\"_blank\">here</a>."
+    },
+    "Pleasefixerror": {
+        "message": "Please fix the following errors:"
+    },
+    "Prompttemplatesave": {
+        "message": "Prompt template was saved successfully to \"Own Prompts\" ."
+    },
+    "Prompttextincludingplaceholders": {
+        "message": "Prompt text including placeholders [TARGETLANGUAGE] or [PROMPT] replaced automagically by AIBestPrompts"
+    },
+    "AuthorNamevisibleforallusers": {
+        "message": "Author Name visible for all users"
+    },
+    "AuthorURLvisibleforallusers": {
+        "message": "Author URL visible for all users"
+    },
+    "Shortteasertemplate": {
+        "message": "Short teaser for this prompt template, e.g. 'Create a keyword strategy and SEO content plan from 1 [KEYWORD]"
+    },
+    "Createakeyword": {
+        "message": "Create a keyword strategy and SEO content plan from 1 [KEYWORD]"
+    },
+    "Prompthint": {
+        "message": "Prompt hint for this prompt template, e.g. '[KEYWORD]' or '[your list of keywords, maximum ca. 8000]"
+    },
+    "Prompthintholder": {
+        "message": "[KEYWORD] or [your list of keywords, maximum ca. 8000]"
+    },
+    "Prompttitledecs": {
+        "message": "Short title for this prompt template, e.g. 'Keyword Strategy'\" required placeholder=\"Keyword Strategy"
+    },
+    "PromptTemplatelabel": {
+        "message": "Prompt Template"
+    },
+    "Teaser": {
+        "message": "Teaser"
+    },
+    "PromptHintlable": {
+        "message": "Prompt Hint"
+    },
+    "Title": {
+        "message": "Title"
+    },
+    "Activity": {
+        "message": "Activity"
+    },
+    "Sharepromptpublicly": {
+        "message": "Share prompt template publicly"
+    },
+    "ForkedFrom": {
+        "message": " Forked From"
+    },
+    "PleaseNotConfidential": {
+        "message": "Please be mindful of what you share, and do not include any confidential information, as we are not responsible for any actions taken by others with the information you choose to share."
+    },
+    "SavePrompt": {
+        "message": "Save Prompt"
+    },
+    "ExportChat": {
+        "message": "Export Chat"
+    },
+    "Logout": {
+        "message": "Log out"
+    },
+    "PromptsperPage": {
+        "message": "Paged"
+    },
+    "PromptsperPagetitle": {
+        "message": "The number of prompt templates per page"
+    },
+    "Showing": {
+        "message": ""
+    },
+    "Prev": {
+        "message": "Prev"
+    },
+    "Next": {
+        "message": "Next"
+    },
+    "YourAccount": {
+        "message": "Your Account"
+    },
+    "YourFavorites": {
+        "message": "Your &quot;Favorites&quot; List"
+    },
+    "Favorites": {
+        "message": "Favorites"
+    },
+    "YourAIBestPromptsVerified": {
+        "message": "&quot;Prompts VIP&quot; List"
+    },
+    "AIBestPromptsVerified": {
+        "message": "VIP"
+    },
+    "Public": {
+        "message": "Public"
+    },
+    "Own": {
+        "message": "Own"
+    },
+    "HiddenPrompt": {
+        "message": "&quot;Hidden&quot; Prompts List"
+    },
+    "Hidden": {
+        "message": "Hidden"
+    },
+    "All": {
+        "message": "All"
+    },
+    "AllTopic": {
+        "message": "Topic"
+    },
+    "Sortby": {
+        "message": "Sort by"
+    },
+    "Search": {
+        "message": "Search"
+    },
+    "Unhide": {
+        "message": "Unhide"
+    },
+    "Hide": {
+        "message": "Hide"
+    },
+    "thisprompt": {
+        "message": "this prompt"
+    },
+    "RemovePrompt": {
+        "message": "Remove this prompt from the list"
+    },
+    "VerifiedPrompt": {
+        "message": "This prompt was reviewed and verified by AIBestPrompts."
+    },
+    "Viewsource": {
+        "message": "View prompt template source"
+    },
+    "Reportprompt": {
+        "message": "Report this prompt"
+    },
+    "Deleteprompt": {
+        "message": "Delete this prompt"
+    },
+    "Editprompt": {
+        "message": "Edit this prompt"
+    },
+    "Removepromptfrom": {
+        "message": "Remove this prompt from"
+    },
+    "Addpromptto": {
+        "message": "Add this prompt to"
+    },
+    "Topic": {
+        "message": "Topic"
+    },
+    "Activity": {
+        "message": "Activity"
+    },
+    "Createdby": {
+        "message": "Created by"
+    },
+    "Lastupdatedon": {
+        "message": "Last updated on"
+    },
+    "Forkedfrom": {
+        "message": "Forked from Prompt Template"
+    },
+    "Views": {
+        "message": "Views"
+    },
+    "Usages": {
+        "message": "Usages"
+    },
+    "Votes": {
+        "message": "Votes"
+    },
+    "VotesUp": {
+        "message": "Vote for this prompt with thumbs up"
+    },
+    "VotesDown": {
+        "message": "Vote for this prompt with thumbs down"
+    },
+    "Copylinkprompt": {
+        "message": "Copy link to this prompt"
+    },
+    "Addnewprompttemplate": {
+        "message": "Add new prompt template"
+    },
+    "Defaultlanguage": {
+        "message": "Default language"
+    },
+    "Outputin": {
+        "message": "Output in"
+    },
+    "Tone": {
+        "message": "Tone"
+    },
+    "Default": {
+        "message": "Default"
+    },
+    "Upgradeformore": {
+        "message": "'<option value disabled>_________</option><option value=\"UPGRADE\">Upgrade for more</option>'"
+    },
+    "WritingStyle": {
+        "message": "Writing Style"
+    },
+    "Continue": {
+        "message": "Continue"
+    },
+    "DeletePromptConfirm": {
+        "message": "Are you sure you want to delete prompt template"
+    },
+    "ThanksVote": {
+        "message": "Thanks for your vote!"
+    },
+    "ThanksFeedback": {
+        "message": "Thanks for your feedback! We will review this prompt."
+    },
+    "WarningNotpublic": {
+        "message": "The link to the prompt template was copied to your clipboard.<br>This prompt is not shared as public. Only you can access it."
+    },
+    "CopylinkNotify": {
+        "message": "The link to the prompt template was copied to your clipboard."
+    },
+    "Close": {
+        "message": "Close"
+    },
+    "ForkasPrivatePrompt": {
+        "message": "Fork as Private Prompt"
+    },
+    "AddtoHidden": {
+        "message": "Added to \"Hidden\" prompts list."
+    },
+    "notunhide": {
+        "message": "Could not unhide prompt template."
+    },
+    "RemovedfromHidden": {
+        "message": "Removed from \"Hidden\" prompts list."
+    },
+    "notFavorites": {
+        "message": "Could not add to \"Favorites\" prompts list."
+    },
+    "addtoFavorites": {
+        "message": "Added to \"Favorites\" prompts list."
+    },
+    "notRemoveFavorites": {
+        "message": "Could not remove from \"Favorites\" prompts list."
+    },
+    "RemovedFavorite": {
+        "message": "Removed from \"Favorites\" prompts list."
+    },
+    "notremovelist": {
+        "message": "Could not remove from list."
+    },
+    "Removedfrom": {
+        "message": "Removed from"
+    },
+    "ForkasPrivatePrompt": {
+        "message": "Ford"
+    },
+    "promptslist": {
+        "message": "prompts list"
+    },
+    "nolistfound": {
+        "message": "No lists found, yet. Please create a new custom list first."
+    },
+    "nolistfound1": {
+        "message": "<option value selected>-- No lists found, yet. Please create a new custom list first. --</option>"
+    },
+    "createnewlist": {
+        "message": "Create a new list"
+    },
+    "createnewlist2": {
+        "message": "<option value>-- Create a new list --</option>"
+    },
+    "Addtolist": {
+        "message": "Add to list"
+    },
+    "Pleaseselectlist": {
+        "message": "Please select a list or create a new one."
+    },
+    "notaddedtolist": {
+        "message": "Could not add to list."
+    },
+    "Addedto": {
+        "message": "Added to"
+    },
+    "enternamelist": {
+        "message": "Please enter a new name for the list:"
+    },
+    "notupdatelist": {
+        "message": "Could not update list."
+    },
+    "Updatedlist": {
+        "message": "Updated prompts list"
+    },
+    "Confirmdeletelist": {
+        "message": "Are you sure you want to delete list"
+    },
+    "notdeletedlist": {
+        "message": "Could not delete list."
+    },
+    "promptslist": {
+        "message": "prgttdfgfdt"
+    },
+    "Deletedlist": {
+        "message": "Deleted list"
+    },
+    "ToaddFavorites": {
+        "message": "To add a prompt to your \"Favorites\" prompts list, click the star icon next to the prompt title."
+    },
+    "ToaddHidden": {
+        "message": "To add prompt to your \"Hidden\" prompts list and hide it, click the cross icon next to the prompt title."
+    },
+    "AuthorName": {
+        "message": "Author Name"
+    },
+    "AuthorURL": {
+        "message": "Author URL"
+    },    
+    "Continuewritingplease": {
+        "message": "Continue writing please"
+    },
+    "ContinuewritingpleaseConfirm": {
+        "message": "Are you sure you want to continue? The current prompt text will be lost."
+    },
+
+    "appDesc": {
+        "message": "Boost your productivity with AIB Prompts - premium prompts for ChatGPT.",
+        "description":"Boost your productivity with AIB Prompts - premium prompts for ChatGPT."
+    }
+  }

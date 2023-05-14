@@ -1,0 +1,86 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 3,
+    "name": "__MSG_appTitle__",
+    "default_locale": "en",
+    "description": "__MSG_AppSlogan__",
+    "version": "1.5.57",
+    "icons": {
+        "16": "icons/16.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
+        "64": "icons/64.png",
+        "72": "icons/72.png",
+        "80": "icons/80.png",
+        "92": "icons/92.png",
+        "128": "icons/128.png",
+        "256": "icons/256.png",
+        "512": "icons/512.png",
+        "1024": "icons/1024.png"
+    },
+    "background": {
+        "service_worker": "background.min.js",
+        "type": "module"
+    },
+    "action": {
+        "default_title": "Go to ChatGPT"
+    },
+    "permissions": [     
+        "storage",
+        "activeTab"
+    ],
+    "externally_connectable": {
+        "matches": [
+            "https://*.aibest.io:*/*"
+        ]
+    },
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "config.min.js",
+                "inject.min.js",
+                "client.min.js",
+                "utils.min.js",
+                "feedback.min.js",
+                "enums.min.js",
+                "messages.min.js",
+                "fingerprint.min.js",
+                "style.min.css",
+                "AIBESTPROMPTS-quad-300x300-white-transparent.png",
+                "rxn.min.js",
+                "list.min.js",
+                "quota.min.js",
+                "_locales/en/messages.json",
+                "_locales/vi/messages.json",
+                "translator.min.js"
+            ],
+            "matches": [
+                "https://chat.openai.com/*"
+            ],
+            "use_dynamic_url": true
+
+        }
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "content_script.min.js"
+            ],
+            "matches": [
+                "https://chat.openai.com/*"
+            ]
+            
+        }
+        ,{
+            "js": [
+                "content_custom.min.js"
+            ],
+            "matches": [
+                "https://chat.openai.com/*"
+            ]         
+            ,"run_at": "document_start"
+        }
+    ]
+    
+}
